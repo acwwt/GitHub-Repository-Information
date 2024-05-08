@@ -1,2 +1,2 @@
-requests
-json
+requests==2.31.0
+gradio==4.29.0
